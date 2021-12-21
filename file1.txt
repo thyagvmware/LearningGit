@@ -1,2 +1,2 @@
-this is my first git file
+this is my first git 
 I am the new author of this file and will be using it
