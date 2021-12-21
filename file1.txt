@@ -1,1 +1,2 @@
 this is my first git file
+I am the new author of this file and will be using it
