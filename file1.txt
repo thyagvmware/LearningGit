@@ -1,2 +1,3 @@
 this is my first git folder
 I am the new author of this file and will be using it
+this is the third line
